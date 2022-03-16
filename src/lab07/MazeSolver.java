@@ -8,6 +8,7 @@ import java.util.Scanner;
  * Driver class for Graph class performing a Breadth First Search.
  *
  * @author Maximilian Anderson-Baier
+ * @version 2022
  */
 public final class MazeSolver {
 

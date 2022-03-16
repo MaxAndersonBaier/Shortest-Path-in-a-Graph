@@ -20,6 +20,7 @@ import java.util.ArrayDeque;
  * A class representing a Graph with a number of vertices.
  *
  * @author Maximilian Anderson-Baier
+ * @version 2022
  */
 public class Graph {
 
