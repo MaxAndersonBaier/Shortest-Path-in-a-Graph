@@ -7,7 +7,6 @@ import java.util.Objects;
  * A class representing a Vertex within a graph.
  *
  * @author Maximilian Anderson-Baier
- * @version 2021
  */
 public class Vertex {
 
